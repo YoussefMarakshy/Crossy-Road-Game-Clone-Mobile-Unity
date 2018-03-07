@@ -1,0 +1,13 @@
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/UnityEngine.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/UnityEditor.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yohann/Documents/Unity_projects/crossy/Crossy-Roads-Unity-coding-project-files/CrossyRoad-Style/Temp/bin/Debug/Mono.Cecil.Mdb.dll
